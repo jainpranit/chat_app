@@ -134,6 +134,24 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "firebase_messaging",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging-14.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_messaging_platform_interface",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_platform_interface-4.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_messaging_web",
+      "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_messaging_web-3.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "firebase_storage",
       "rootUri": "file:///C:/Users/DELL/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage-11.2.4",
       "packageUri": "lib/",
@@ -350,7 +368,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-07-10T01:58:55.998204Z",
+  "generated": "2023-07-14T00:26:57.348536Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }
